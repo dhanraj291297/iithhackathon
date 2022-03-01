@@ -73,7 +73,8 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
     
 ## Simulations
   
-    ![Screenshot (274)](https://user-images.githubusercontent.com/100601295/156120421-7d3b2836-0bd2-4f34-a4d4-3a32f362a79d.png)
+![image](https://user-images.githubusercontent.com/100601295/156120541-d8d60b42-3db8-4c4d-90dd-6ed80b9b6618.png)
+
 
  
 
