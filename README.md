@@ -51,12 +51,13 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
 
 
 ## CMOS Inverter
+                              CMOS Schematic Diagram
 <p align="center">
 <img width="495" 
      height="300"
      alt="Screenshot 2022-03-01 111147" src="https://user-images.githubusercontent.com/100601295/156113020-d475f583-df79-4167-9be3-57d5a3f5315e.png" />
   
-     CMOS Schematic Diagram
+     
   -Symbol
   
   <img width="333" alt="Screenshot 2022-03-01 111328" src="https://user-images.githubusercontent.com/100601295/156130539-8fcdddd9-079f-4e2b-a8db-603264b93321.png">
