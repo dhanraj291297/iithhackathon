@@ -67,7 +67,9 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
         Gilbert Cell Schematic Diagram
 
 
-## Netlist
+##  Netlist
+    
+    
     Refer this link for netlist : <a href='Gilbert_cell_netlist.txt'> Netlist </a>
     
 ## Simulations
