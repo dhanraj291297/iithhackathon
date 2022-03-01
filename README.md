@@ -51,7 +51,7 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
 
 
 ## CMOS Inverter
-                              CMOS Schematic Diagram
+-                                                 CMOS Schematic Diagram
 <p align="center">
 <img width="495" 
      height="300"
