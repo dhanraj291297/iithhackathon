@@ -67,9 +67,13 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
         Gilbert Cell Schematic Diagram
 
 
+    
+    
 ##  Netlist
     
  Refer this link for netlist : <a href='Gilbert_cell_netlist.txt'> Netlist </a>
+    
+    
     
 ## Simulations
   
@@ -85,6 +89,8 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
 
 - Dhanraj Choudhary, Communication System Engineering , L.D. College of Engineering , Ahmedabad-380015
 
+    
+    
 
 ## Acknowledgements
 
@@ -94,6 +100,7 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
  - [Chinmay panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
 
 
+    
 
 ## References
 - [1] Design of Analog CMOS Integrated Circuits.https://www.mheducation.co.in/design-of-analog-cmos-integrated-circuits-9789387067844-india. Accessed 19 Feb. 2022. Page 126-129 
