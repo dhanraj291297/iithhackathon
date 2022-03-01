@@ -70,7 +70,6 @@ In Gilbert Cell provides opposite voltage using cmos inverter at input voltage a
 ##  Netlist
     
  Refer this link for netlist : <a href='Gilbert_cell_netlist.txt'> Netlist </a>
- https://github.com/dhanraj291297/iithhackathon/blob/27eb84fe8eb829045eabbaf28345913f2abeab0c/Gilbert_cell_netlist
     
 ## Simulations
   
